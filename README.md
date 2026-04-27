@@ -4,14 +4,6 @@ A full-stack MERN web application where food partners can upload short food vide
 
 ---
 
-### 🔗 Live Demo: https://ashadeep2002.github.io/Zomasta/#/
-
----
-
-### 🔗 Backend API: https://zomasta-backend.onrender.com
-
----
-
 ### 🚀 Features
 👤 User Registration & Login |
 🏪 Food Partner Registration & Login |
@@ -63,18 +55,3 @@ MongoDB Atlas Database
 ImageKit (Video Storage CDN)
 
 ---
-
-### 👨‍💻 Author
-
-Ashadeep Pan |
-B.Tech CSE Graduate |
-Full Stack MERN Developer |
-
----
-
-### GitHub: https://github.com/ashadeep2002
-
----
-
-### ⭐ If you like this project, give it a star on GitHub ⭐
-
